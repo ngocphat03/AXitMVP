@@ -1,4 +1,4 @@
-﻿namespace AXitUnityTemplate.MVP.Core
+﻿namespace AXitUnityTemplate.MVP.Base
 {
     using AXitUnityTemplate.MVP.Interface;
 
