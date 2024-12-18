@@ -1,4 +1,4 @@
-﻿namespace AXitUnityTemplate.MVP.Interface
+﻿namespace AXitUnityTemplate.MVP.Runtime.Interface
 {
     public interface IView
     {

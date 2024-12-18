@@ -1,7 +1,7 @@
-﻿namespace AXitUnityTemplate.MVP.Base
+﻿namespace AXitUnityTemplate.MVP.Runtime.Base
 {
     using System;
-    using AXitUnityTemplate.MVP.Interface;
+    using AXitUnityTemplate.MVP.Runtime.Interface;
 
     public class MvpFactory 
     {

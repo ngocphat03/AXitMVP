@@ -1,7 +1,6 @@
-﻿namespace AXitUnityTemplate.MVP.Base
+﻿namespace AXitUnityTemplate.MVP.Runtime.Base
 {
-    using AXitUnityTemplate.MVP.Interface;
-
+    using AXitUnityTemplate.MVP.Runtime.Interface;
 #if UNITASK
     using Task = Cysharp.Threading.Tasks.UniTask;
 #else
